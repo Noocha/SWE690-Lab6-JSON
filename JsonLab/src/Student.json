@@ -1,0 +1,77 @@
+{
+  "students": [
+    {
+      "student": {
+        "id": 111,
+        "email": "abc@mail.kmutt.ac.th",
+        "name": {
+          "firstname": "Tom",
+          "lastname": "Williams"
+        },
+        "address": {
+          "number": 333,
+          "street": "Prachutid",
+          "district": "Bangmod",
+          "province": "Bangkok",
+          "zipcode": 10410
+        },
+        "gpa": 3.72,
+        "education": {
+          "current": {
+            "major": "MSc SWE",
+            "bechelor": [
+              {
+                "major": "Comp Sci",
+                "university": "PSU"
+              },
+              {
+                "major": "Art",
+                "university": "Chula"
+              }
+            ],
+            "master": [
+              {
+                "major": "Food Sci",
+                "university": "KMUTT"
+              },
+              {
+                "major": "Energy",
+                "university": "KMUTT"
+              }
+            ]
+          }
+        }
+      }
+    },
+    {
+      "student": {
+        "id": 112,
+        "email": "john@mail.kmutt.ac.th",
+        "name": {
+          "firstname": "John",
+          "lastname": "Wick"
+        },
+        "address": {
+          "number": 123,
+          "street": "5th Ave.",
+          "district": null,
+          "province": "New York",
+          "zipcode": 78451
+        },
+        "gpa": 3.56,
+        "education": {
+          "current": {
+            "major": "MSc IT",
+            "bechelor": [
+              {
+                "major": "Geology",
+                "university": "MIT"
+              }
+            ],
+            "master": null
+          }
+        }
+      }
+    }
+  ]
+}

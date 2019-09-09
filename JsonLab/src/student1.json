@@ -1,0 +1,12 @@
+{
+  "id": 666,
+  "firstname": "Tony",
+  "lastname": "Smith",
+  "gpa": 3.83,
+  "email": "tony@mail.kmutt.ac.th",
+  "advisors": [
+    "Somtui",
+    "Borworn",
+    "Chonlameth"
+  ]
+}

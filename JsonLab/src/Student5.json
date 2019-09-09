@@ -1,0 +1,10 @@
+{
+  "id": 555,
+  "firstname": "Jack",
+  "lastname": "Smith",
+  "email": "jack@mail.kmutt.ac.th",
+  "advisors": [
+    "Borworn",
+    "Chonlameth"
+  ]
+}
